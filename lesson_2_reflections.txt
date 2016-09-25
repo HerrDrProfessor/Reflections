@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It makes it possible to later make git commits on that particular directory. You need to do it, if you want to make git commits.
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+If I understood right, the staging area allows you to commit several files at once. Often files and changes are directly related,
+so it can be useful to commit them together.
+
