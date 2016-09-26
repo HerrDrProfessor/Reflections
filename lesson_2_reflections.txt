@@ -35,3 +35,9 @@ Tree-like structure of the branches is easier to grasp from the graphic version 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Mergin branches creates one branch with all the commits from both branches. The visual representation seems logical,
 because the branches merged and you can still access all the commits.
+
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The automatic merging can save a lot of time. Sometimes it would be very inefficient to go manually through files and searching for conflicts.
