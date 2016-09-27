@@ -7,3 +7,9 @@ on GitHub also works as a backup.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 When the pulls are made manually, user has greater awareness of the git-structure. Sometimes the remote repository might have some
 changes that you don't want to pull.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are clones or copied repositories on GitHub. Clones are copied repositories on local machines. Branches are structures of git commits. The
+commits are ordered by the time they were made.
