@@ -1,4 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 A remote repository makes it easier to collaborate with other people. Having your project
-also works as a backup.
+on GitHub also works as a backup.
